@@ -1,0 +1,7 @@
+body {
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    height: 100px;
